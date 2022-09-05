@@ -1,0 +1,1 @@
+//https://medium.com/before-semicolon/how-to-create-a-resumable-multifile-uploader-with-javascript-b077cece11c7
